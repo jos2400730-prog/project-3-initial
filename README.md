@@ -57,11 +57,11 @@ Complete the project by following these enhanced TDD steps:
 
 ## Enhanced Method Requirements
 
-Each method now includes:
+Each method includes:
 - **Input validation** with custom exceptions
 - **Null safety** checks
 - **Generic type safety** where applicable
-- **Advanced Stream operations**
+- **Stream operations**
 - **Comprehensive error messages**
 
 ## AI Analysis Questions for Students
@@ -105,6 +105,7 @@ Use these specific prompts with your AI assistant:
 - Code includes comprehensive exception handling
 - Implementation demonstrates proper use of generics where applicable
 - Methods use Stream API features appropriately
-- Include a brief reflection on how AI analysis improved your code quality
+- Include a brief reflection on how AI analysis improved your code quality in REFLECTION.md
+- Include a description of AI interactions in AI_INTERACTION_LOG.md
 
 Any questions, let me know!
